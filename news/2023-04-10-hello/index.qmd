@@ -1,0 +1,12 @@
+---
+title: "Å nei å nei"
+description: "Så skjedde det som ikke skulle skje"
+author:
+    - name: Eirik
+date: 2023-04-12
+categories: [Quarto, Python]
+image: img.png
+---
+
+Nyhetssaker nummer 2 er på plass
+

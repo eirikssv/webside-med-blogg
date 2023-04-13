@@ -1,0 +1,10 @@
+---
+title: "Nå med blogging!"
+description: "Nettsiden er endelig oppdatert med mulighet for å lage nyhetssaker"
+author:
+    - name: Eirik
+date: 2023-04-12
+categories: [Quarto, Python]
+image: img.jfif
+---
+
