@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "webside med blogg",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "news/2023-04-10-hello/index.html",
+    "href": "news/2023-04-10-hello/index.html",
+    "title": "Å nei å nei",
+    "section": "",
+    "text": "Nyhetssaker nummer 2 er på plass"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "News",
+    "section": "",
+    "text": "Å nei å nei\n\n\n\nQuarto\n\n\nPython\n\n\n\nSå skjedde det som ikke skulle skje\n\n\n\nEirik\n\n\nApr 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNå med blogging!\n\n\n\nQuarto\n\n\nPython\n\n\n\nNettsiden er endelig oppdatert med mulighet for å lage nyhetssaker\n\n\n\nEirik\n\n\nApr 12, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]
